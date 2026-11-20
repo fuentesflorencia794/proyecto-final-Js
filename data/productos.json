@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera Oversize Ac/Dc Vintage",
+    "categoria": "remeras",
+    "precio": 24500,
+    "imagen": "./assets/img/remera-acdc.jpg",
+    "descripcion": "Algodón peinado 24/1 lavado ácido, estampa en serigrafía."
+  },
+  {
+    "id": 2,
+    "nombre": "Buzo Canguro Metallica Master",
+    "categoria": "abrigos",
+    "precio": 48000,
+    "imagen": "./assets/img/buzo-metallica.jpg",
+    "descripcion": "Frisa invisible pesada con capucha forrada y bolsillo canguro."
+  },
+  {
+    "id": 3,
+    "nombre": "Campera Eco-Cuero Biker Rocker",
+    "categoria": "abrigos",
+    "precio": 65000,
+    "imagen": "./assets/img/campera-biker.jpg",
+    "descripcion": "Cierres metálicos reforzados, corte clásico entallado."
+  },
+  {
+    "id": 4,
+    "nombre": "Remera Nirvana In Utero",
+    "categoria": "remeras",
+    "precio": 23000,
+    "imagen": "./assets/img/remera-nirvana.jpg",
+    "descripcion": "Corte boxy fit, color crudo, estampa frontal."
+  },
+  {
+    "id": 5,
+    "nombre": "Gorra Trucker Guns N' Roses",
+    "categoria": "accesorios",
+    "precio": 14500,
+    "imagen": "./assets/img/gorra-gnr.jpg",
+    "descripcion": "Frente sublimado de alta definición y red trasera ajustable."
+  },
+  {
+    "id": 6,
+    "nombre": "Cinturón Doble Tachas Pirámide",
+    "categoria": "accesorios",
+    "precio": 18000,
+    "imagen": "./assets/img/cinto-tachas.png",
+    "descripcion": "Cuero sintético reforzado con doble hilera de tachas metálicas."
+  }
+]
